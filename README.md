@@ -36,7 +36,8 @@
             </a>
         </li>
         <li style="display: flex; gap: 5px; align-items: center">
-            <img width="25" src="./imgs/postgres.png" target="_blank" style="color: #699eca; text-decoration: none;">
+            <img width="25" src="./imgs/postgres.png">
+            <a href="https://www.postgresql.org/" target="_blank" style="color: #699eca; text-decoration: none;">
                 PostgreSQL
             </a>
         </li>
